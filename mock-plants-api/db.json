@@ -1,0 +1,41 @@
+{
+    "auth": {
+        "username": "jessica",
+        "password": "jessica123",
+        "token": "abc1234567890"
+    },
+    "plants": [
+        {
+            "id": 1,
+            "name": "Jiboia",
+            "scientific_name": "Epipremnum aureum",
+            "description": "Planta de fácil cultivo e bastante popular em decoração de interiores.",
+            "sun_exposure": "Meia-sombra",
+            "watering": "1-2 vezes por semana"
+        },
+        {
+            "id": 2,
+            "name": "Samambaia",
+            "scientific_name": "Nephrolepis exaltata",
+            "description": "Ideal para ambientes internos, com alta umidade e iluminação indireta.",
+            "sun_exposure": "Meia-sombra",
+            "watering": "3-4 vezes por semana"
+        },
+        {
+            "id": 3,
+            "name": "Espada-de-São-Jorge",
+            "scientific_name": "Sansevieria trifasciata",
+            "description": "Planta resistente e purificadora de ar, perfeita para ambientes internos.",
+            "sun_exposure": "Sol pleno ou meia-sombra",
+            "watering": "1 vez por semana"
+        },
+        {
+            "id": 4,
+            "name": "Cacto",
+            "scientific_name": "Cactaceae",
+            "description": "Plantas de baixa manutenção, perfeitas para ambientes internos e externos.",
+            "sun_exposure": "Sol pleno",
+            "watering": "A cada 2 semanas"
+        }
+    ]
+}
