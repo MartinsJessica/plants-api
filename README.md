@@ -58,4 +58,3 @@ Este projeto é um servidor web construído com Express.js que fornece endpoints
    - `GET /`: [http://localhost:3000/](http://localhost:3000/)
    - `GET /plants`: [http://localhost:3000/plants](http://localhost:3000/plants)
    - `GET /plants/:id`: [http://localhost:3000/plants/:id](http://localhost:3000/plants/:id)
-   - `GET /plants/name/:name`: [http://localhost:3000/plants/name/:name](http://localhost:3000/plants/name/:name)
