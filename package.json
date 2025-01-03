@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "node --watch src/server.js"
+    "start": "node --watch src/server.js",
+    "teste": "cd ./mock-plants-api && node server.js & cd .. && npm start"
   },
   "keywords": [],
   "author": "",
